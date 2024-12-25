@@ -1,16 +1,21 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Cardápio cafeteria temática
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Image Creator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de um cardápio para uma cafeteria temática.
+O tema é pokemon.
+A cafeteria serve produtos japoneses
+Serve cafe, cha e agua
+Os doces são estilo japones com matcha
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultado de uma imagem de cardapio
+https://sl.bing.net/gN0iWf3HtXo
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi super legal, visto que, normalmente teria que desenhar e fazer o cardápio do zero e a tecnologia traz uma imagem bem proxima do que pensei e ajuda muito na agilidade para desenvolver o projeto.
